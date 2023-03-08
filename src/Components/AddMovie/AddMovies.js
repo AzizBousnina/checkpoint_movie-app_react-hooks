@@ -3,8 +3,7 @@ import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import Modal from 'react-bootstrap/Modal';
 import * as Unicons from '@iconscout/react-unicons';
-
-import './AddMovie.css'
+import './AddMovies.css'
 function AddMovie({add}) {
   const [show, setShow] = useState(false);
 

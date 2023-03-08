@@ -8,7 +8,8 @@ export const moviesData = [
         posterUrl:
             "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_.jpg",
         trailer: "https://www.youtube.com/embed/6QRvTv_tpw0",
-    },
+    }
+    ,
     {
         id: 2,
         title: "The Lobster",
@@ -18,7 +19,8 @@ export const moviesData = [
         posterUrl:
             "https://i.pinimg.com/originals/43/9b/19/439b192bedc27cfaa0ec1cc787db800d.jpg",
         trailer:"https://www.youtube.com/embed/vU29VfayDMw",
-    },
+    }
+    ,
     {
         id: 3,
         title: "The Pianist",
@@ -28,7 +30,8 @@ export const moviesData = [
         posterUrl:
             "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
         trailer:"https://www.youtube.com/embed/BFwGqLa_oAo",
-        },
+        }
+    ,
     {
         id: 4,
         title: "Avengers: Endgame",
@@ -38,7 +41,8 @@ export const moviesData = [
         posterUrl:
             "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
         trailer:"https://www.youtube.com/embed/TcMBFSGVi1c",
-    },
+    }
+    ,
     {
         id: 5,
         title: "Gangs of New York",
@@ -119,6 +123,7 @@ export const moviesData = [
             "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
         trailer:"https://www.youtube.com/embed/SEUXfv87Wpk",
         },
+        
         {
             id: 13,
             title: "The Godfather",
@@ -127,7 +132,7 @@ export const moviesData = [
               ,
             posterUrl:
                 "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
-            trailer:"https://www.youtube.com/embed/SEUXfv87Wpk",
+            trailer:"https://www.youtube.com/embed/UaVTIH8mujA",
             },
             {
                 id: 14,
@@ -137,7 +142,7 @@ export const moviesData = [
                     "In the 1950s, in Brooklyn, the young Henry Hill has the opportunity to realize his dream: to become a gangster when a local boss integrates him into his team.",
                 posterUrl:
                     "https://images.moviesanywhere.com/14389cf58dfa0aeeb9fae531ce4559a4/298e1118-a7d2-41a7-a22d-b927ab9d2a14.jpg",
-                trailer:"https://www.youtube.com/embed/SEUXfv87Wpk",
+                trailer:"https://www.youtube.com/embed/2ilzidi_J8Q",
                 },
                 {
                 id: 15,
@@ -147,6 +152,6 @@ export const moviesData = [
                     "In May 1980, Fidel Castro authorized opponents who so wished to leave Cuba. He takes the opportunity to send the thugs who have become undesirable on the island to the United States.",
                 posterUrl:
                     "https://www.ecranlarge.com/uploads/image/001/206/egctbodidxbsxzicf8ilc8gebd5-133.jpg",
-                trailer:"https://www.youtube.com/embed/SEUXfv87Wpk",
+                trailer:"https://www.youtube.com/embed/cv276Wg3e7I",
                 },
     ];

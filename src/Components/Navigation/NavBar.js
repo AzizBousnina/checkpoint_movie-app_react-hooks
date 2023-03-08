@@ -2,18 +2,18 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
-import './Navigation.css'
 
 
-function Navigation() {
+
+function NavBar() {
   return (
     <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
       <Container>
-        <Navbar.Brand className='logo' href="#home"><img src='https://pngimg.com/uploads/netflix/netflix_PNG6.png' alt='pic' width={300} height={50} /> </Navbar.Brand>
+        <Navbar.Brand className='logo' href="#logo"><img src='https://pngimg.com/uploads/netflix/netflix_PNG6.png' alt='pic' width={300} height={50} /> </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="#features">Home</Nav.Link>
+            <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="#pricing">About</Nav.Link>
             <NavDropdown title="Categories" id="collasible-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
@@ -38,4 +38,4 @@ function Navigation() {
   );
 }
 
-export default Navigation ;
+export default NavBar ;
